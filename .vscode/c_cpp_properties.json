@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/Aakash/Downloads/curl-8.11.1_1-win64-mingw/curl-8.11.1_1-win64-mingw/include"  // Include path for curl.h
+            ],
+            "defines": [],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",  // Update with the correct compiler path
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
